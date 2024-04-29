@@ -30,11 +30,12 @@
 NAME : SHYAM KUMAR A
 REG NO : 212221230098
 ```
-![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/db829882-709a-4741-a663-6f977d93c549)
+![101](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/4dbee8ad-d5fc-4c22-a024-13be898ec5ab)
 
-![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/31006e86-3cbc-439b-b639-f8bf6be7ba3c)
+![102](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/1c328812-21e7-4a56-9820-bc7b65fa3078)
 
-![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/20e096ac-8455-4a3f-996e-4458f803c47c)
+![103](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/b0bcd0dc-c20d-4d2c-aa5c-89eaf89264e4)
+
 
 
 ### Result:
