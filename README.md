@@ -30,9 +30,12 @@
 NAME : SHYAM KUMAR A
 REG NO : 212221230098
 ```
-![a](1.png)
-![a](2.png)
-![a](3.png)
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/db829882-709a-4741-a663-6f977d93c549)
+
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/31006e86-3cbc-439b-b639-f8bf6be7ba3c)
+
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP10/assets/93427182/20e096ac-8455-4a3f-996e-4458f803c47c)
+
 
 ### Result:
 Thus sentimental analysis for twitter data is executed successfully using rapidminer.
